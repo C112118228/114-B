@@ -1,4 +1,4 @@
-<img width="960" height="265" alt="image" src="https://github.com/user-attachments/assets/6ad88c4c-db43-473e-ba57-9f68bb1b553c" />##### 專題題目：智慧校園學習助理系統-商科基本領域
+##### 專題題目：智慧校園學習助理系統-商科基本領域
 # 
 ##### 工作分配
 ##### 任務1 系統功能規劃與需求分析 5天
