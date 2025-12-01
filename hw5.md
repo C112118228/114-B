@@ -1,2 +1,2 @@
-# UML圖（UML圖）
+# 類別圖（UML圖）
 ![UML圖](UML圖.jpeg)
